@@ -2,15 +2,15 @@
 
 Sprint Planning
 
-refinamiento:
+Refinamiento:
 
-Se codificÛ el programa en el cual se obtuvieron varios errores. Por lo que hace falta refinar m·s el cÛdigo.
-Se eligiÛ como lenguaje definitivo C++
+Se codific√≥ el programa en el cual se obtuvieron varios errores. Por lo que hace falta refinar m√°s el c√≥digo.
+Se eligi√≥ como lenguaje definitivo C++
 Y como IDE code:Blocks
 
 Sprint Backlog(16 de abril-23 de Abril)
 
-EnvÌo del desarrollador a capacitarse sobre linux e instalaciÛn de un S.O. base linux en el flisol 2017.
-InstalaciÛn del Entorno y primer contacto con code:Blocks
-Refinamiento del cÛdigo (Debugging del cÛdigo)
+Env√≠o del desarrollador a capacitarse sobre linux e instalaci√≥n de un S.O. base linux en el flisol 2017.
+Instalaci√≥n del Entorno y primer contacto con code:Blocks
+Refinamiento del c√≥digo (Debugging del c√≥digo)
 Continuar la lectura sobre c++

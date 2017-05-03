@@ -1,0 +1,15 @@
+23 de Abril
+Sprint Planning
+
+refinamiento
+
+Se instaló en el equipo del desarrollador Linux ubuntu Mate.
+Se instaló code:blocks y se hizo una introducción con el IDE
+Se realizó una pequeña codificacion en code:Blocks como introducción a C++
+El código sigue con errores.
+
+Sprint Backlog(23 de Abril-30 de Abril)
+
+Lectura de C++ enfocado en tipos de Datos ,Métodos y Funciones.
+Corrección completa del código (Debugging)
+Revisión y mejoramiento de algoritmos.

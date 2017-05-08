@@ -1,0 +1,15 @@
+9 de Abril.
+
+Sprint planning
+
+Refinamiento :
+
+Se logró dividir el código en archivos fuentes y cabeceras. Se llegó hasta la lectura de datos(Guardar los barcos) y Metodología de los Turnos.
+Se retiró de la biblioteca el libro aprende a programar en c++
+Recolección de Ejemplos. Analizar las diferentes opciones para ayudar en la formulación del juego
+
+Sprint Backlog(9 de Abril-16 de Abril)
+
+Primera codificación en zinjai del algoritmo
+Elección definitiva de un lenguaje.
+Definir IDE.

@@ -1,0 +1,18 @@
+2 de Abril.
+
+Sprint Planning
+
+Refinamiento :
+Búsqueda de bibliografía no satisfactoria. Se debe buscar más material bibliográfico(En especial la parte de redes).
+Selección de plataforma Linux debido a que ninguno de los desarrolladores tiene un sistema operativo basado en Linux por lo que por el momento se trabajara con win10
+Selección de Entorno de Desarrollo Se eligió como IDE Zinjai ya que fue visto anteriormente en la clase. Y tiene un traductor para trabajar en pseudocódigo hasta que se defina el lenguaje a utilizar.
+Razonamiento lógico Sobre el juego. Fueron establecidas las reglas básicas del juego y como debería ir evolucionando durante el desarrollo del mismo
+
+Desarrollo de un primer algoritmo de Juego : Se realizó una primer prueba, en la que por el momento no ha habido división de clases.
+
+
+Sprint Backlog(2 de Abril-9 de Abril)
+
+Refinamiento del algoritmo . División de Métodos con sus respectivos prototipo y definición (archivos fuentes y cabeceras).
+Búsqueda en biblioteca y primera lectura de libros de C++.
+Búsqueda de Ejemplos de proyectos de Batalla Naval.

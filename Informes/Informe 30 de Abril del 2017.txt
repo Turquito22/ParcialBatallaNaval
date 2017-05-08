@@ -1,0 +1,12 @@
+30 de Abril
+
+Sprint Planning
+
+Refinamiento:
+
+Se realizaron cambios de mejoramiento en el algoritmo.
+
+Sprint Backlog(30 de Abril-7 de Mayo)
+
+Semana de parciales(Se deja en segundo plano el proyecto)
+Búsqueda bibliográfica de Redes(cliente-servidor)

@@ -1,0 +1,16 @@
+16 de Abril
+
+Sprint Planning
+
+Refinamiento:
+
+Se codificó el programa en el cual se obtuvieron varios errores. Por lo que hace falta refinar más el código.
+Se eligió como lenguaje definitivo C++
+Y como IDE code:Blocks
+
+Sprint Backlog(16 de abril-23 de Abril)
+
+Envío del desarrollador a capacitarse sobre linux e instalación de un S.O. base linux en el flisol 2017.
+Instalación del Entorno y primer contacto con code:Blocks
+Refinamiento del código (Debugging del código)
+Continuar la lectura sobre c++

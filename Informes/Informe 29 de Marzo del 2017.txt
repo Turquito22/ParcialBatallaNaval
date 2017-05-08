@@ -1,0 +1,36 @@
+29 de marzo de 2017
+
+Product backlog
+
+Objetivo Primario:
+Se quiere obtener un juego simple de Batalla Naval multijugador (cliente-servidor) con la consigna de que debe funcionar en S.O de linux
+
+Funcionalidades:
+Desarrollado en Plataforma Linux.
+Desarrollado en lenguaje C++ o Java (a definir)
+Cantidad de Jugadores (minimo de 3 Jugadores)
+Reglas del juego (Lógica del programa)
+Debe ser jugado en Red
+
+Capacitaciones:
+Refinamiento del lenguaje C++
+Aprendizaje del funcionamiento de redes ( Función cliente-Servidor)
+Instalación de un Linux para hacer pruebas de funcionamiento.
+Investigación Sobre Teoría de Juegos(Estratégicos-Batalla naval).
+Investigación de historia de la batalla naval.
+Investigación sobre el funcionamiento lógico del juego (Reglas)
+Investigación de proyectos anteriores relacionados.
+Bibliografía Adicional.
+
+Definición de las reuniones (Sprint Planning)
+Se acordó una reunión semanal de duración mínima de 60 minutos los dias domingo.
+Mas las reuniones diarias (Dayling Meeting) de aprox 15 minutos.
+
+
+Sprint Backlog (29 de Marzo-2 de Abril)
+
+Búsqueda de bibliografía sobre lo requerido en capacitaciones.
+Selección de plataforma.
+Selección de Entorno de Desarrollo.
+Razonamiento lógico sobre el juego.
+Desarrollo de un primer algoritmo del juego.

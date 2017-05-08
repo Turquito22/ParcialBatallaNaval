@@ -1,0 +1,17 @@
+7 de Mayo
+
+Sprint Planning
+
+Refinamiento:
+
+Se realizo la busqueda de la Bibliografia.
+http://www3.uji.es/~ochera/curso_2005_2006/is18/is18_0506_p3_sockets.pdf
+
+Se corrigieron errores previamente encontrados.
+Se desarrollo el algoritmo bàsico (1 contra 1 en un pc)en pseudocòdigo en el IDE zinjai.
+
+
+Sprint Backlog (7 de Mayo - 14 Mayo)
+
+Comienzo de la traduccion del pseudocodigo a c++
+Lecutura y revision de la bibliografia seleccionada

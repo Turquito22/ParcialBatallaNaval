@@ -1,0 +1,17 @@
+14 de Mayo
+
+Sprint Planning
+
+Refinamiento:
+
+Se realizaron modificaciónes en el algoritmo bàsico (1 contra 1 en un pc) haciendolo mas agradable.
+y se comenzo la tradución de los metodos de funcionamiento a c++
+
+
+Sprint Backlog (14 de Mayo - 21 Mayo)
+
+Continuaación de la traduccion del Codigo
+Lectura bibliografica sobre redes (Cliente-Servidor-Redes VPN)
+
+Bibliografia:
+http://es.tldp.org/Tutoriales/PROG-SOCKETS/prog-sockets.html
